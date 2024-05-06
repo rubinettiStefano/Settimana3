@@ -8,7 +8,6 @@ public class AddioVettori
     static Scanner term = new Scanner(System.in);
     public static void main(String[] args) 
     {
-    
         
         //Definizione di Vettore
         //Insieme di elementi ordinati (con indice) dello stesso tipo, di dimensione FISSA
